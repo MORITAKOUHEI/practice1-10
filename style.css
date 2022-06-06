@@ -77,21 +77,9 @@ main {
 
 .item-box {
   width: 90%;
-  margin: 20px auto;
-}
-
-.item-img1 {
-  width: 90%;
-}
-
-.item-img2 {
-  width: 90%;
-}
-
-.item-img3 {
-  width: 90%;
+  margin: 0 auto 20px;
 }
 
 .item-box:last-child {
-  margin-right: 30px;
+  margin: 0 auto;
 }
